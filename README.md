@@ -3,7 +3,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/andres-puerta-bajonero-579450196) 
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Apuertab16&theme=midnight-purple&hide_border=false"/>
+  <img src="https://streak-stats.demolab.com/?user=Apuertab16&theme=midnight-purple&hide_border=false&locale=es"/>
 </p>
 
 ## Herramientas y tecnologías
