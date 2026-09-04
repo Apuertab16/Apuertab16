@@ -1,4 +1,4 @@
-Hola soy Andrés Puerta, fullstack software developer.
+# Hola soy Andrés Puerta, fullstack software developer.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/andres-puerta-bajonero-579450196) 
 
