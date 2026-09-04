@@ -1,7 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=32&duration=3500&pause=1000&color=F7F7F7&repeat=false&width=865&height=60&lines=Hola+soy+Andr%C3%A9s+Puerta%2C+desarrollador+fullstack)](https://git.io/typing-svg)
 
-# Hola soy Andrés Puerta, desarrollador fullstack
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/andres-puerta-bajonero-579450196) 
 
 <p align="center">
