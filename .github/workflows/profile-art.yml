@@ -35,4 +35,4 @@ jobs:
       - name: Generate Maeul in the Sky Terrain
         uses: t1seo/maeul-in-the-sky@latest
         with:
-          github-token: ${{ secrets.GITHUB_TOKEN }
+          github-token: ${{ secrets.GITHUB_TOKEN }}
