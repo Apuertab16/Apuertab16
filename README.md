@@ -1,4 +1,4 @@
-# Hola soy Andrés Puerta, fullstack software developer.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&size=32&duration=3500&pause=1000&color=F7F7F7&repeat=false&width=800&height=60&lines=Hola+soy+Andr%C3%A9s+Puerta%2C+desarrollador+fullstack)](https://git.io/typing-svg)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/andres-puerta-bajonero-579450196) 
 
