@@ -30,17 +30,12 @@
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/></a>
 </p>
 
+## Actividad:
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Apuertab16/Apuertab16/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Apuertab16/Apuertab16/output/github-contribution-grid-snake.svg" />
-  <img alt="snake" src="https://raw.githubusercontent.com/Apuertab16/Apuertab16/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Apuertab16/Apuertab16/output/github-contribution-grid-snake.svg" />
 </picture>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/maeul-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="./assets/maeul-light.svg" />
-  <img alt="isometric terrain" src="./assets/maeul-light.svg" />
-</picture>
-
----
 
