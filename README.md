@@ -2,7 +2,11 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/andres-puerta-bajonero-579450196) 
 
-# Stack:
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=Apuertab16&theme=midnight-purple&hide_border=false"/>
+</p>
+
+## Herramientas y tecnologías
 <p align="left">
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/></a>
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/></a>
@@ -26,9 +30,5 @@
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/></a>
 </p>
 
-# 📊 GitHub Stats:
-![](https://streak-stats.demolab.com/?user=Apuertab16&theme=midnight-purple&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Apuertab16&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
 ---
-[![](https://komarev.com/ghpvc/?username=Apuertab16&icon=0&color=1)](https://visitcount.itsvg.in)
+
