@@ -25,14 +25,3 @@ jobs:
           build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-  isometric:
-    runs-on: ubuntu-latest
-    permissions:
-      contents: write
-    steps:
-      - uses: actions/checkout@v4
-      - name: Generate Maeul in the Sky Terrain
-        uses: t1seo/maeul-in-the-sky@latest
-        with:
-          github-token: ${{ secrets.GITHUB_TOKEN }}
